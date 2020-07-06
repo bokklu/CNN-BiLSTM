@@ -19,3 +19,6 @@ These projects use the following external libraries:
 - pyplot
 - itertools
 - sklearn
+
+For more information on the above:
+https://www.um.edu.mt/library/oar/handle/123456789/40270
